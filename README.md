@@ -1,0 +1,1 @@
+# aplica-o-simples-capaz-de-identificar-a-bandeira-de-um-cart-o-de-cr-dito-como-Visa-MasterCard-etc.-
